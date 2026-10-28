@@ -448,3 +448,10 @@ button[type="submit"] {
   font: inherit !important;
   padding: 0.2em 0.5em !important;
 }
+
+.pagination .current,
+.pagination li.on,
+li.current {
+  color: #11141a !important;
+  font-weight: bold;
+}

@@ -1,6 +1,7 @@
 # Surely-Ink-Blue-Skin
-CSS for AO3 custom site skin
-This site skin uses an existing site skin as a base, with minor changes and bug fixes.
+CSS for AO3 custom site skin.
+
+This site skin uses an existing AO3 site skin as a base, with minor changes and bug fixes.
 
 ## Base
 [Constellation AO3 site skin by thevalkyrieflies on tumblr](https://www.tumblr.com/thevalkyrieflies/799148971859787776/constellations-ao3-skin?source=share)

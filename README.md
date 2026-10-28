@@ -3,9 +3,13 @@ CSS for AO3 custom site skin.
 
 This site skin uses an existing AO3 site skin as a base, with minor changes and bug fixes.
 
+Background Color: #11141a (Ink Blue)
+
+Font Color: #f3bc70 (Crisp Yellow)
+
 ## Installation Steps
 Note: Site skins require an AO3 account. 
-1. Copy the CSS code from this repository
+1. [Copy the CSS code from this repository](https://github.com/yingqiist/Surely-Ink-Blue-Skin/blob/main/surely-ink-blue-skin.css)
 2. Log into your AO3 account
 3. Go to My Dashboard
 4. Go to the Skins menu on the left sidebar of the screen
@@ -21,7 +25,7 @@ Note: Site skins require an AO3 account.
 ## References
 [ZerafinaCSS' Custom Site Skin Guide](https://archiveofourown.org/works/65849527) for general installation guide
 
-[ZerafinaCSS' Custom Site Skin CSS Repository](https://github.com/ZerafinaCSS/neos/tree/main) for their very well commented custom CSS site skins
+[ZerafinaCSS' Custom Site Skin CSS Repository](https://github.com/ZerafinaCSS/neos/tree/main) for their very well commented custom CSS
 
 # Initial Changelog
 ## Minor Changes
